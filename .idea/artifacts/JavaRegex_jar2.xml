@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRegex:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRegex_jar2</output-path>
+    <root id="archive" name="JavaRegex.jar">
+      <element id="module-output" name="JavaRegex" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
